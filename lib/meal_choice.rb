@@ -16,3 +16,9 @@ def outfit_choice(color,pants,head = "hat")
   puts outfit
   return outfit
 end 
+=begin
+inside def method 
+define variable 
+puts local_varible 
+return local_varible
+end 
