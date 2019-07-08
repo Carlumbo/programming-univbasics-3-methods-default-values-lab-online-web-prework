@@ -12,7 +12,7 @@ so example is
 =end 
 def outfit_choice(color,pants,head = "hat")
   puts "What are you going to wear?"
-  outfit = "I am going to wear #{color} shirt with my {pants} along with a #{head}"
+  outfit = "I am going to wear a #{color} shirt with my #{pants} along with a #{head}"
   puts outfit
   return outfit
 end 
